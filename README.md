@@ -10,6 +10,7 @@ THEORY: Rectifier changes ac to dc and it is an essential part of power supply. 
 Half Wave Rectifier
 
 
+
 Mains power supply is applied at the primary of the step-down transformer. All the positive half cycles of the stepped down ac supply pass through the diode and all the negative half cycles get eliminated. Peak value of the output voltage is less than the peak value of the input voltage by 0.6V because of the voltage drop across the diode.
 For a half wave rectifier, Vrms = Vm/2 and Vdc = Vm/π: where Vrms = rms value of input, Vdc = Average value of input and Vm = peak value of output.
 
@@ -35,19 +36,26 @@ PROCEDURE:
 4.   Repeat the above steps for full wave and bridge rectifiers.
 
 CIRCUIT DIAGRAMS
-
 Half wave rectifier with filter:
+<img width="1035" height="750" alt="image" src="https://github.com/user-attachments/assets/eea2d4aa-6f7a-4102-b4b5-a3b3374de9f1" />
 
 Bridge rectifier with filter:
+<img width="1047" height="702" alt="image" src="https://github.com/user-attachments/assets/15f3766d-bc64-4dfd-9afa-3237852361d0" />
 
 TABULAR COLUMN
 Rectifier without filter
+<img width="1038" height="324" alt="image" src="https://github.com/user-attachments/assets/d078ea26-e96c-4637-8c7b-c921ae1fced2" />
+
 TABULAR COLUMN
 Rectifier with filter
+<img width="1042" height="344" alt="image" src="https://github.com/user-attachments/assets/7ce149d8-4243-4b64-86ec-6e28016562e4" />
 
 WAVEFORM:
+<img width="1036" height="451" alt="image" src="https://github.com/user-attachments/assets/8814ecf9-13a0-4e75-bc05-2c9f3c2248a0" />
+<img width="1026" height="388" alt="image" src="https://github.com/user-attachments/assets/b24a3261-0b56-4f29-9d18-671ad74d4f9e" />
 
 
 RESULT:
+<img width="1183" height="901" alt="image" src="https://github.com/user-attachments/assets/a8e9fdeb-aa84-4126-9f81-d664c62fb501" />
 
 Input and Output waveforms of a half and full bridge-wave with /without filter are observed and plotted.
